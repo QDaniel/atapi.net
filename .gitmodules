@@ -1,0 +1,3 @@
+[submodule "sftechgrp.buildtools"]
+	path = sftechgrp.buildtools
+	url = ../sftechgrp.buildtools.git
